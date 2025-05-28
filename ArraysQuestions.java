@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Arrays {
+public class ArraysQuestions {
     public static int largest(int arr[]) {
         int largest = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {
@@ -34,6 +34,24 @@ public class Arrays {
         System.out.println(tp);
     }
 
+    public static void pairSum(int arr[], int target) {
+        // array must be sorted
+        int i = 0, j = arr.length - 1;
+        while (i < j) {
+            int ps = arr[i] + arr[j];
+            if (ps > target) {
+                j--;
+            } else if (ps < target) {
+                i++;
+            } else {
+                System.out.println("paiirs are (" + arr[i] + "," + arr[j] + ")");
+                return;
+            }
+        }
+        System.out.println("not found");
+
+    }
+
     public static void subArrays(int arr[]) {
         int ts = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -49,12 +67,12 @@ public class Arrays {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, 4, 7, 9, 2 };
-        subArrays(arr);
+        int arr[] = { 1, 4, 7, 9, 12 };
+        // subArrays(arr);
         // pairs(arr);
         // for (int num : arr) {
         // System.out.print(num + " ");
         // }
+        pairSum(arr, 16);
     }
-
 }
