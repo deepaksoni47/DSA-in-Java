@@ -67,6 +67,18 @@ public class BitManipulation {
         return count;
     }
 
+    public static void swap() {
+        int x = 3, y = 4;
+        x = x ^ y;
+        y = x ^ y;
+        x = x ^ y;
+        System.out.println(x + " " + y);
+    }
+
+    public static char upperToLower(char a) {
+        return (char) (a | ' ');
+    }
+
     public static void main(String[] args) {
         // System.out.println(6 & 1);
         oddEven(57);
