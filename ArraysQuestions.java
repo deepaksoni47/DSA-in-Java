@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class ArraysQuestions {
-    public static int largest(int arr[]) {
+    public static int largest(int[] arr) {
         int largest = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {
             if (largest < arr[i]) {
@@ -22,7 +22,7 @@ public class ArraysQuestions {
         }
     }
 
-    public static void pairs(int arr[]) {
+    public static void pairs(int[] arr) {
         int tp = 0;
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = i + 1; j < arr.length; j++) {
@@ -67,7 +67,7 @@ public class ArraysQuestions {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, 4, 7, 9, 12 };
+        int[] arr = { 1, 4, 7, 9, 12 };
         // subArrays(arr);
         // pairs(arr);
         // for (int num : arr) {
