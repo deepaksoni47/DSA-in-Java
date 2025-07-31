@@ -41,9 +41,13 @@ public class Backtracking {
         }
     }
 
+    public static void nQueens(String board[][], int row) {
+
+    }
+
     public static void main(String[] args) {
         // findSubsets("", 0, "");
-        findPermutations("abcd", "");
+        // findPermutations("abcd", "");
     }
 
 }
