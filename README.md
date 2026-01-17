@@ -2,57 +2,9 @@
 
 This repository contains Java implementations of Data Structures and Algorithms that I'm learning as part of my DSA course.
 
-## Repository Structure
+## About
 
-The repository is organized into the following directories:
-
-### 📁 **arrays/** (21 files)
-Array-related problems and solutions including:
-- Array operations (rotation, reversal, searching)
-- Stock buy/sell problems
-- Kadane's algorithm
-- Subarray problems
-- Two-pointer techniques
-- LeetCode problems (Next Permutation, Three Sum, Top K Frequent Elements, Valid Sudoku, etc.)
-
-### 📁 **strings/** (8 files)
-String manipulation problems including:
-- Palindrome checks
-- Anagram detection
-- Longest substring problems
-- String validation
-
-### 📁 **algorithms/** (3 files)
-Core algorithms including:
-- Searching algorithms (Linear Search, Binary Search)
-- Sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort, Counting Sort)
-- Divide and Conquer (Merge Sort, Quick Sort)
-
-### 📁 **recursion/** (2 files)
-Recursion and backtracking problems including:
-- Factorial, Fibonacci
-- Subset generation
-- Permutations
-- Tower of Hanoi
-
-### 📁 **math/** (7 files)
-Mathematical problems including:
-- Number conversions (Binary ↔ Decimal)
-- Prime numbers
-- Power calculations
-- Factorial
-
-### 📁 **bit-manipulation/** (1 file)
-Bit manipulation techniques and operations
-
-### 📁 **basics/** (3 files)
-Basic programming concepts:
-- Pattern printing
-- Switch statements
-- Basic conditions
-
-### 📁 **oops/** (1 file)
-Object-Oriented Programming examples
+This is a comprehensive collection of DSA problems and solutions organized by topics. The repository covers various fundamental concepts including arrays, strings, algorithms, recursion, mathematical problems, bit manipulation, and object-oriented programming principles.
 
 ## Purpose
 
@@ -61,7 +13,3 @@ To practice and build a strong foundation in DSA using Java for coding interview
 ## Note
 
 Work in progress — more topics and problems will be added as I learn.
-
----
-
-*This README is automatically generated. To update, run `python generate_readme.py` or push changes to trigger the GitHub Action.*
