@@ -61,3 +61,7 @@ To practice and build a strong foundation in DSA using Java for coding interview
 ## Note
 
 Work in progress — more topics and problems will be added as I learn.
+
+---
+
+*This README is automatically generated. To update, run `python generate_readme.py` or push changes to trigger the GitHub Action.*
