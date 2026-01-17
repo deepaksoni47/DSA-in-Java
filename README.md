@@ -6,13 +6,14 @@ This repository contains Java implementations of Data Structures and Algorithms 
 
 The repository is organized into the following directories:
 
-### 📁 **arrays/** (16 files)
+### 📁 **arrays/** (21 files)
 Array-related problems and solutions including:
 - Array operations (rotation, reversal, searching)
 - Stock buy/sell problems
 - Kadane's algorithm
 - Subarray problems
 - Two-pointer techniques
+- LeetCode problems (Next Permutation, Three Sum, Top K Frequent Elements, Valid Sudoku, etc.)
 
 ### 📁 **strings/** (8 files)
 String manipulation problems including:
@@ -49,13 +50,6 @@ Basic programming concepts:
 - Pattern printing
 - Switch statements
 - Basic conditions
-
-### 📁 **leetcode/** (5 files)
-LeetCode problem solutions:
-- Top K Frequent Elements
-- Valid Sudoku
-- Three Sum
-- Next Permutation
 
 ### 📁 **oops/** (1 file)
 Object-Oriented Programming examples
