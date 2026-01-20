@@ -50,6 +50,8 @@ class Solution_HashMap {
     }
 }
 
+package strings;
+
 // -------------------------------------
 // Approach 3 - Using Integer Array
 // -------------------------------------
@@ -58,7 +60,9 @@ class Solution_Array {
         int n = s.length();
         int maxLength = 0;
         int[] charIndex = new int[128]; // Supports ASCII
-        Arrays.fill(charIndex, -1);
+        for (int i = 0; i < charIndex.length; i++) {
+            charIndex[i] = -1;
+        }
         int left = 0;
 
         for (int right = 0; right < n; right++) {

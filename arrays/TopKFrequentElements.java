@@ -49,9 +49,10 @@ class TopKFrequentElements {
 
     }
 
+    @SuppressWarnings({ "unchecked", "rawtypes" })
     public List<Integer> topKFrequentv2(int[] nums, int k) {
 
-        List<Integer>[] bucket = new List[nums.length + 1];
+        List<Integer>[] bucket = (List<Integer>[]) new List[nums.length + 1];
         Map<Integer, Integer> frequencyMap = new HashMap<Integer, Integer>();
 
         for (int n : nums) {

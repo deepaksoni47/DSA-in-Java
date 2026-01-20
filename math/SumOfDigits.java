@@ -1,3 +1,5 @@
+package math;
+
 public class SumOfDigits {
     public static int sumDig(int n) {
         int sum = 0;

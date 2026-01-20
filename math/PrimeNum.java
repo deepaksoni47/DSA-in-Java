@@ -1,3 +1,5 @@
+package math;
+
 public class PrimeNum {
     public static boolean isPrime(int n) {
         if (n == 2) {

@@ -1,3 +1,5 @@
+package math;
+
 public class Factorial {
     public static int factorial(int num) {
         int fact = 1;

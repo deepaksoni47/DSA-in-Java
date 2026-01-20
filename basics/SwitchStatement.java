@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+package basics;
+
 public class SwitchStatement {
     public static void main(String[] args) {
         System.out.println("Enter the day number 1-7");
