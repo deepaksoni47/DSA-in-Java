@@ -13,3 +13,23 @@ To practice and build a strong foundation in DSA using Java for coding interview
 ## Note
 
 Work in progress — more topics and problems will be added as I learn.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+<!---LeetCode Topics End-->
