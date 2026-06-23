@@ -19,17 +19,28 @@ Work in progress — more topics and problems will be added as I learn.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
