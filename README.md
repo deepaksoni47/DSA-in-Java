@@ -31,6 +31,7 @@ Work in progress — more topics and problems will be added as I learn.
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -47,6 +48,7 @@ Work in progress — more topics and problems will be added as I learn.
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Dynamic Programming
@@ -58,6 +60,19 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
