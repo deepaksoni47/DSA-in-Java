@@ -34,6 +34,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -75,4 +77,17 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
