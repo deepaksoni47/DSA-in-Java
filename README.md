@@ -24,6 +24,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [1046-last-stone-weight](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1046-last-stone-weight/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Work in progress — more topics and problems will be added as I learn.
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Work in progress — more topics and problems will be added as I learn.
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +100,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [1046-last-stone-weight](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1046-last-stone-weight/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,8 +113,14 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
