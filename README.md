@@ -72,6 +72,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Design
@@ -108,10 +110,12 @@ Work in progress — more topics and problems will be added as I learn.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
