@@ -22,6 +22,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
 | [1046-last-stone-weight](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1046-last-stone-weight/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -130,4 +131,8 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
 <!---LeetCode Topics End-->
