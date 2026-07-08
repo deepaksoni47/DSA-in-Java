@@ -81,6 +81,7 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +140,9 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
