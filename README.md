@@ -27,6 +27,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0337-house-robber-iii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [0703-kth-largest-element-in-a-stream](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -127,6 +130,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -141,6 +145,7 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +155,16 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
