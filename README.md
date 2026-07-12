@@ -24,6 +24,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [1046-last-stone-weight](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -55,6 +56,7 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
