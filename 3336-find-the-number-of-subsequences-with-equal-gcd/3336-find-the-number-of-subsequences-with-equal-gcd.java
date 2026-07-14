@@ -1,42 +1,54 @@
 class Solution {
+
     static final int MOD = 1_000_000_007;
 
     public int subsequencePairCount(int[] nums) {
-        int MAX = 200;
+        int m = 0;
+        for (int num : nums) {
+            m = Math.max(m, num);
+        }
 
-        long[][] dp = new long[MAX + 1][MAX + 1];
+        int[][] dp = new int[m + 1][m + 1];
         dp[0][0] = 1;
 
-        for (int x : nums) {
-            long[][] next = new long[MAX + 1][MAX + 1];
+        for (int num : nums) {
+            int[] g = new int[m + 1];
+            for (int i = 0; i <= m; i++) {
+                g[i] = gcd(i, num);
+            }
 
-            for (int g1 = 0; g1 <= MAX; g1++) {
-                for (int g2 = 0; g2 <= MAX; g2++) {
-                    long cur = dp[g1][g2];
-                    if (cur == 0) continue;
+            int[][] ndp = new int[m + 1][m + 1];
 
-                    // Ignore x
-                    next[g1][g2] = (next[g1][g2] + cur) % MOD;
+            for (int j = 0; j <= m; j++) {
+                int ng1 = g[j];
+
+                for (int k = 0; k <= m; k++) {
+                    int val = dp[j][k];
+                    if (val == 0) continue;
+
+                    int ng2 = g[k];
+
+                    // Ignore
+                    ndp[j][k] = (ndp[j][k] + val) % MOD;
 
                     // Put into seq1
-                    int ng1 = (g1 == 0) ? x : gcd(g1, x);
-                    next[ng1][g2] = (next[ng1][g2] + cur) % MOD;
+                    ndp[ng1][k] = (ndp[ng1][k] + val) % MOD;
 
                     // Put into seq2
-                    int ng2 = (g2 == 0) ? x : gcd(g2, x);
-                    next[g1][ng2] = (next[g1][ng2] + cur) % MOD;
+                    ndp[j][ng2] = (ndp[j][ng2] + val) % MOD;
                 }
             }
 
-            dp = next;
+            dp = ndp;
         }
 
-        long ans = 0;
-        for (int g = 1; g <= MAX; g++) {
-            ans = (ans + dp[g][g]) % MOD;
+        int ans = 0;
+        for (int g = 1; g <= m; g++) {
+            ans += dp[g][g];
+            if (ans >= MOD) ans -= MOD;
         }
 
-        return (int) ans;
+        return ans;
     }
 
     private int gcd(int a, int b) {
