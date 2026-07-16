@@ -31,6 +31,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@ Work in progress — more topics and problems will be added as I learn.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ Work in progress — more topics and problems will be added as I learn.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +191,9 @@ Work in progress — more topics and problems will be added as I learn.
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
