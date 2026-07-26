@@ -21,6 +21,7 @@ Work in progress — more topics and problems will be added as I learn.
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0427-construct-quad-tree](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0427-construct-quad-tree/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1046-last-stone-weight](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -166,6 +167,7 @@ Work in progress — more topics and problems will be added as I learn.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -174,6 +176,7 @@ Work in progress — more topics and problems will be added as I learn.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepaksoni47/DSA-in-Java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepaksoni47/DSA-in-Java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepaksoni47/DSA-in-Java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
